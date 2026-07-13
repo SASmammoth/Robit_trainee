@@ -1,0 +1,10 @@
+print_statement:
+    "print" + "(" + command + ")"
+    "Print" + "(" + command + ")"
+
+command:
+    compress + "(" + "\"" + text + "\"" + ")"
+    decompress + "(" + "\"" + code + "\"" + ")"
+
+code:
+    iscode

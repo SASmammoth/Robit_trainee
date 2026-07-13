@@ -1,0 +1,24 @@
+add
+add ppp1 5
+add ttt2 15
+add ooo -1
+add kkk 1
+add pnp 3
+borrow JKM ppp1
+borrow GHI ttt2
+borrow JKM ooo
+borrow JKM ttt2
+borrow JKM ttt2
+borrow JKM pnp
+borrow KIM kkk
+borrow JKM ppp1
+borrow GHI kkk
+status ppp1
+status ttt2
+status ooo
+status kkk
+status GHI kkk
+user GHI
+user JKM
+list
+

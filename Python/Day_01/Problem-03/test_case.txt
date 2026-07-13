@@ -1,0 +1,17 @@
+append abc
+append add def ddkjaslsdjfkl
+append 1b2c$
+insert 0 ttc
+insert 15 ppc
+insert -5 pin
+insert -4 pin
+akdfoef__ 15
+insert aba ddd
+remove abc
+remove ppppppp
+pop 0
+pop 99
+pop -1
+len
+print
+clear

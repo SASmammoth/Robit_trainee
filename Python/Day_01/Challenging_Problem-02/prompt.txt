@@ -1,0 +1,28 @@
+명령어 기반 도서 대출 관리 시스템을 Python을 이용해서 만들거야, 도서대출관리시스템 클래스를 만들어 줘.
+각각의 매서드는 add_book(book_name, num), borrow_book(user_name, book_name), return_book(user_name, book_name), status_book(book_name), user(user_name), list, Exit 이다.
+add_book :
+- 책 등록, 이미 있으면 수량 추가
+
+borrow_book :
+- 책이 있고 수량이 남아 있으며, 같은 사용자가 같은 책을 대출 중이 아닐 때만 대출
+- 실패 시 ERROR + 사유 출력
+
+return_book :
+- 실제로 대출 중인 책만 반납 가능
+- 실패 시 ERROR + 사유 출력
+
+status_book :
+- 남은 수량 출력
+- 책이 존재하지 않으면 ERROR 출력
+
+user :
+- user_name의 대출 목록 출력
+- 없으면 EMPTY
+
+list :
+- 전체 책 목록을 등록 순서대로 출력
+
+Exit
+- 종료
+
+책과 사용자 이름에는 공백이 없어야 함

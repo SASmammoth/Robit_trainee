@@ -1,0 +1,16 @@
+print(compress("aaabbccccd"))
+print(decompress("a3b2c4d1"))
+print(decompress("a12b3"))
+print(decompress("a0"))
+print(decompress("3a"))
+Print(compress("abcde"))
+
+
+compress("aaaaaaa")
+
+aaabbccccd
+a3b2c4d1
+a12b3
+
+
+abcde

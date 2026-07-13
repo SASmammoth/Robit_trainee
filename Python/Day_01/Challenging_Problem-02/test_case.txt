@@ -1,0 +1,24 @@
+add_book
+add_book ppp1 5
+add_book ttt2 15
+add_book ooo -1
+add_book kkk 1
+add_book pnp 3
+borrow_book JKM ppp1
+borrow_book GHI ttt2
+borrow_book JKM ooo
+borrow_book JKM ttt2
+borrow_book JKM ttt2
+borrow_book JKM pnp
+borrow_book KIM kkk
+borrow_book JKM ppp1
+borrow_book GHI kkk
+status_book ppp1
+status_book ttt2
+status_book ooo
+status_book kkk
+status_book GHI kkk
+user GHI
+user JKM
+list
+

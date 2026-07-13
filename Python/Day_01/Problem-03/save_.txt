@@ -1,0 +1,22 @@
+class Getter:
+    # 사용자로 부터 입력을 받는 클래스
+    def __init__(self):
+        self.is_full = False
+        self.word = ""
+
+    def pin_(self):
+        if self.is_full : 
+            self.is_full = False
+            return self.word
+        else :
+            temp_ = input()
+            return temp_
+
+    #ppush는 굳이 필요 없을지도?
+    def ppush_(self, buffer_string):
+        if self.is_full :
+            raise Exception("Getter버퍼에 이미 값이 들어있음")
+        else:
+            self.is_full = True
+            self.word = buffer_string
+            
