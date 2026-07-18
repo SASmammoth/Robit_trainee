@@ -25,7 +25,7 @@
 
 ### 빌드
 
-\```bash
+\```
 gcc -std=c11 -g -Wall -Wextra -fsanitize=address,undefined *.c -o main
 \```
 
