@@ -2,6 +2,7 @@
 
 .vscode/
 
+main
 *.o
 *.out
 *.exe
@@ -19,3 +20,4 @@ venv/
 
 .DS_Store
 Thumbs.db
+main
