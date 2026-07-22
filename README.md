@@ -26,7 +26,7 @@
 ### 빌드
 
 \```
-gcc -std=c11 -g -Wall -Wextra -fsanitize=address,undefined *.c -o main
+gcc -std=c11 -g -Wall -Wextra -fsanitize=address,undefined *.c -o main -lm
 \```
 
 
