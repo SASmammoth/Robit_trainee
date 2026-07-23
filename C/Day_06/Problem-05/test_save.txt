@@ -1,0 +1,5 @@
+4
+8	Jang	Korea	AA-do	bb-si	cc-gu	88.80
+6	Kang	Libera	ddd-do	eee-si	fff-gu	17.30
+13	Pang	Aibera	KKK-do	GGG-si	PPP-gu	55.80
+22	Gang	N. Korea	KddKK-do	GGafdsG-si	PPsfP-gu	44.00

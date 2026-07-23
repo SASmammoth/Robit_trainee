@@ -1,0 +1,8 @@
+7
+22	Gang	N. Korea	KddKK-do	GGafdsG-si	PPsfP-gu	44.00
+22	Gang	N. Korea	KddKK-do	GGafdsG-si	PPsfP-gu	44.00
+6	Kang	Libera	ddd-do	eee-si	fff-gu	17.30
+6	Kang	Libera	ddd-do	eee-si	fff-gu	17.30
+13	Pang	Aibera	KKK-do	GGG-si	PPP-gu	55.80
+13	Pang	Aibera	KKK-do	GGG-si	PPP-gu	55.80
+22	Dafjwe	aiewfojoe	jaewfio-do	ajoiwefij-si	ajiwoef-gu	55.00
